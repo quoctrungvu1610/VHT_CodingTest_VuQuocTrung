@@ -1,0 +1,7 @@
+2024-09-15 10:05:23 INFO     System startup
+2024-09-15 10:10:45 WARNING  Low memory
+2024-09-15 10:12:02 ERROR    Disk not found
+2024-09-15 10:15:30 INFO     Process started
+2024-09-15 10:20:47 WARNING  CPU temperature high
+2024-09-15 10:25:52 ERROR    Out of memory
+2024-09-15 10:30:00 INFO     System shutdown
